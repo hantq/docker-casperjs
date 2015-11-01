@@ -23,6 +23,6 @@ docker run -v *pwd*/casperjs-test:/home/casperjs-test hantq/docker-casperjs casp
 ```
 
 ## Take a screenshot
-```
+```bash
 docker run -v *pwd*/casperjs-test:/home/casperjs-test hantq/docker-casperjs casperjs test /home/casperjs-test/capture.js
 ```
